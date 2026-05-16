@@ -16,6 +16,8 @@ Speakers ALC269VC Analog [ALC269VC Analog
 
 Wifi/Bluetooth: Intel AC 9560
 
+Ethernet: Realtek Generic Ethernet
+
 AMI Bios (Very good)
 
 # Some data trash
