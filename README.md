@@ -23,4 +23,14 @@ ALCID 12 Worked with prebuild olarila one
 
 # Actual status
 
-Not even started lol, comming soon!
+  ┌── The status:
+  │
+  ├── Found the pc data: [WIP]
+  |
+  ├── Search kexts: [NEXT]
+  |
+  ├── Setup ACPI: [NOT YET]
+  |
+  ├── SETUP SSTC: [NOT YET]
+  |
+  ... More steps soon...
