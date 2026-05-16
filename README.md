@@ -14,7 +14,7 @@ Trashie touchpad (Syna3602)
 
 Speakers ALC269VC Analog [ALC269VC Analog
 
-Wifi: Intel AC 9560
+Wifi/Bluetooth: Intel AC 9560
 
 AMI Bios (Very good)
 
