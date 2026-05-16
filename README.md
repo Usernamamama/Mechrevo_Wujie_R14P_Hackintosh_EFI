@@ -12,7 +12,9 @@ Trashie touchpad (Syna3602)
 
 8GB Ram (Sadly not upgradeable)
 
-Spikers ALC269VC Analog [ALC269VC Analog
+Speakers ALC269VC Analog [ALC269VC Analog
+
+Wifi: Intel AC 9560
 
 AMI Bios (Very good)
 
