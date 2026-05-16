@@ -12,8 +12,12 @@ Trashie touchpad (Syna3602)
 
 8GB Ram (Sadly not upgradeable)
 
+Spikers ALC269VC Analog [ALC269VC Analog
+
 AMI Bios (Very good)
 
+# Some data trash
+ALCID 12 Worked with prebuild olarila one
 
 # Actual status
 
